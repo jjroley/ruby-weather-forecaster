@@ -1,1 +1,1 @@
-How to run: `bundle install && ruby main.rb`
+Run with `bundle install && ruby main.rb`
